@@ -57,3 +57,6 @@ Setting MRTK to Unity
 
 11. Press Play button
 - If you press the spacebar, you can see hand object on your Game scene.
+
+Tip: Animation tool in Unity
+- Spine (http://ko.esotericsoftware.com/spine-unity-download/)
