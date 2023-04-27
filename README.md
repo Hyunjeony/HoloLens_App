@@ -76,3 +76,11 @@ Tip: Spatial mapping
 
 Tip: World Locking
 - https://learn.microsoft.com/ko-kr/mixed-reality/world-locking-tools/documentation/howtos/initialsetup
+
+
+# Image Object Recognition
+
+1. Import Vuforia
+- https://learn.microsoft.com/en-us/windows/mixed-reality/design/spatial-mapping
+- 
+3. 
