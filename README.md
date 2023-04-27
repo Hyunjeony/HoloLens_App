@@ -58,5 +58,21 @@ Setting MRTK to Unity
 11. Press Play button
 - If you press the spacebar, you can see hand object on your Game scene.
 
+
 Tip: Animation tool in Unity
 - Spine (http://ko.esotericsoftware.com/spine-unity-download/)
+
+Tip: Record
+- 172.30.1.28
+- Login account creating Microsoft Hololens app
+- Mixed Reality Capture and record your Hololens 2 scene
+
+Tip: Spatial mapping
+- 172.30.1.28
+- Login account creating Microsoft Hololens app
+- 3D View > Spatial mapping > Save
+- You can use .obj file to apply fixed real space (SpatialMapping file)
+- https://learn.microsoft.com/en-us/windows/mixed-reality/design/spatial-mapping
+
+Tip: World Locking
+- https://learn.microsoft.com/ko-kr/mixed-reality/world-locking-tools/documentation/howtos/initialsetup
