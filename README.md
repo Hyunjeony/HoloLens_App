@@ -55,5 +55,5 @@ Setting MRTK to Unity
 10. Click menu
 - Mixed Reality > Add to Scene and Configure
 
-11. Play the game.
+11. Press Play button
 - If you press the spacebar, you can see hand object on your Game scene.
